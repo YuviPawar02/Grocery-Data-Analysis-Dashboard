@@ -34,3 +34,10 @@ This project involves analyzing a grocery store dataset to uncover key business 
 
 
 2.Microsoft Excel 
+
+<h3>Outcomes</h3>
+1.Built a fully interactive dashboard for grocery data insights
+
+2.Improved understanding of customer behavior and product performance
+
+3.Gained hands-on experience with Power BI for business reporting
