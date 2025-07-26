@@ -6,7 +6,6 @@ This project involves analyzing a grocery store dataset to uncover key business 
 <h3>Objectives</h3>
 1.Perform data preprocessing to clean and prepare raw grocery sales data
 
-
 2.Identify trends in product demand, sales performance, and delivery times
 
 3.Build an interactive Power BI dashboard to present the insights
@@ -14,14 +13,12 @@ This project involves analyzing a grocery store dataset to uncover key business 
 <h3>Data Preprocessing</h3>
 1.Removed duplicates and handled missing values
 
-
 2.Standardized column formats (e.g., date, category names)
 
 3.Ensured consistency in product and order data
 
 <h3>Dashboard Features</h3>
 1.Daily and monthly sales trends
-
 
 2.Top-selling products and categories
 
